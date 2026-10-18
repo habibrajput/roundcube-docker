@@ -1,0 +1,6 @@
+.env
+db-data/
+npm-data/
+letsencrypt/
+www/
+*.log
